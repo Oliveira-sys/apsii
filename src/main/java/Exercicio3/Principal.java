@@ -1,13 +1,8 @@
 package Exercicio3;
+import java.util.Scanner;
 
-public class Principal {
-
+public class Principal implements Livro, Cd{
     public static void main(String[] args){
-        Veiculo bicicleta = new Bicicleta();
-        Veiculo carro = new Carro();
-
-        Pista pista = new Pista();
-
 
     }
 

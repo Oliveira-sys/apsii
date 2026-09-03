@@ -1,4 +1,4 @@
-package Exercicio3;
+package Exemplo3;
 
 public class Pista extends Veiculo{
 
